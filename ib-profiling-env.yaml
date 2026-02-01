@@ -1,0 +1,25 @@
+#CPU reproducible environment
+name: ib-profiling-env
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - numpy<2
+  - pytorch
+  - transformers
+  - nltk
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - datasets
+  - jupyter
+  - pip
+  - pip:
+      - accelerate
+      - sentencepiece
+      - tqdm

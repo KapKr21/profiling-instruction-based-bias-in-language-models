@@ -1,0 +1,16 @@
+.DS_Store
+embeddings/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+.ipynb_checkpoints
+
+*.npy
+*.pt
+*.bin
