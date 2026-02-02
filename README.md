@@ -205,4 +205,4 @@ Each execution generates two primary artifacts:
 
 - Bolukbasi et al. Man is to computer programmer as woman is to homemaker? debiasing word embeddings. In Advances in Neural Information Processing Systems, 2016.
 
-- We additionally consulted generative AI tools (e.g., Gemini~\citep{google2024gemini}) for brainstorming and drafting assistance.
+- We additionally consulted generative AI tools (e.g. google2024gemini) for brainstorming and drafting assistance.
